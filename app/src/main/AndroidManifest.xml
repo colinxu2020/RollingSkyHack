@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RollingSkyHack" >
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="Hack Rolling Sky In-game Pay for oppo" />
+        <meta-data android:name="xposedminversion" android:value="53" />
+        <meta-data android:name="xposedscope" android:value="com.turbochilli.rollingsky_cn.nearme.gamecenter;fun.music.rollingsky.mi;com.turbochilli.rollingsky_cn.huawei;com.turbochilli.rollingsky_cn.vivo;com.turbochilli.rollingsky" />
+    </application>
+
+
+</manifest>
