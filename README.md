@@ -6,6 +6,8 @@ RollingSkyHack 是一个让滚动的天空免内购的 Xposed 模块。
 
 在使用中有任何问题，欢迎提交到 Github Issues.
 
-与 Fuck-RollingSky-Pay 不同，这是一个 FOSS 项目，采用 AGPL-3.0 协议完全开源，您可以任意的修改此模块的代码。
+相比 Fuck-RollingSky-Pay，本模块增加了对更多渠道的滚动的天空的支持。
+
+与 Fuck-RollingSky-Pay 的另一个不同是，这是一个 FOSS 项目，采用 AGPL-3.0 协议完全开源，您可以任意的修改此模块的代码。
 
 ![AGPL 3.0](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)
